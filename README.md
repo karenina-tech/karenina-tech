@@ -1,49 +1,78 @@
+# Frontend Developer | Architect-Turned-Engineer
 
+Hello! I'm a Frontend Developer with a background in architecture, specializing in building scalable, user-focused digital products. I combine structured design thinking with modern development practices.
 
+---
 
+## About Me
 
-## 🙋Hey, I am Karenina!
+Transitioned from architecture into software development after completing an intensive bootcamp. My architectural background uniquely shapes my approach to code—prioritizing structure, usability, functionality, and long-term maintainability.
 
-- ⚔️ My stack: **React.**, Typescript, TailwindCSS, Node.js 
+**Currently:** Frontend Developer working on production applications  
+**Specialization:** AI-assisted software development with tools like Cursor and Claude Code
 
-- 📫 How to reach me: **arq.karengallegos89@gmail.com**
+### Notable Experience
+- Migrated AI-generated codebases into structured company ecosystems
+- Adapted projects to internal architecture standards and engineering best practices
+- Worked with multidisciplinary teams on complex problem-solving
 
-- ⚡ Fun fact: **I love smoothies and photography.**
-  
-  ----
-## 💻 Projects Demo
-  - [Bank React](https://kareninatech.me/bank-react-example/)
-  
-    ----
+---
 
-## 🚀 Languages and Tools:
+## Tech Stack
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+**Backend & Tools**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
+**Monitoring & Deployment**  
+![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
 
-## Connect with me:
+**AI-Assisted Engineering**  
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square)
 
-<p align="left">
+---
 
-<a href = "https://www.linkedin.com/in/karen-ga"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/karenina_pecas"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/karenina.pecas/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+## Exploring the AI Universe 🤖
 
+I'm actively exploring the AI landscape and have hands-on experience integrating **Claude Code** into production workflows. Currently diving deeper into:
 
-</p>
+- AI-assisted development practices and workflows
+- Prompt engineering and optimizing AI tool usage
+- Building scalable systems with AI integration
+- Best practices for maintaining code quality with AI tools
 
-## ❤ Views and Followers
+**I'm genuinely interested in learning more about the AI development space** and staying at the cutting edge of how AI is transforming software engineering. Open to discussions, collaborations, and opportunities in this domain.
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Karenina-pecas">
-</a>
-<a href="https://github.com/Karenina-pecas?tab=followers"><img src="https://img.shields.io/github/followers/Karenina-pecas?label=Followers&style=social" alt="GitHub Badge"></a>
+---
+
+## Let's Connect
+
+I'm actively looking for opportunities to contribute to innovative teams and grow as a developer. If you're interested in working together or want to learn more:
+
+📧 **Email:** [karenina.tech@gmail.com](mailto:karenina.tech@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/karen-ga](https://linkedin.com/in/karen-ga)  
+🚀 **Portfolio:** Coming soon
+
+---
+
+## What I'm Looking For
+
+- **Collaborative environments** with multidisciplinary teams
+- **Opportunities to architect scalable solutions** combining technical depth with design thinking
+- **Projects that value code quality**, maintainability, and user experience
+- **Roles where AI-assisted development practices are encouraged** and utilized
+
+---
+
+*Bringing architectural precision and modern development practices to every project.*
