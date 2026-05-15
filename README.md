@@ -1,20 +1,16 @@
-# Frontend Developer | Architect-Turned-Engineer
+# Hi, I'm Karen 👋
+**Frontend Developer** | **Architect-Turned-Engineer**
 
-Hello! I'm a Frontend Developer with a background in architecture, specializing in building scalable, user-focused digital products. I combine structured design thinking with modern development practices.
+📍 **Spain**
 
----
+> Originally trained in architecture, I later moved into software development and never looked back. The transition taught me how to learn fast, adapt quickly, and approach problems from both a technical and user perspective.
 
-## About Me
-
-Transitioned from architecture into software development after completing an intensive bootcamp. My architectural background uniquely shapes my approach to code—prioritizing structure, usability, functionality, and long-term maintainability.
-
-**Currently:** Frontend Developer working on production applications  
-**Specialization:** AI-assisted software development with tools like Cursor and Claude Code
-
-### Notable Experience
-- Migrated AI-generated codebases into structured company ecosystems
-- Adapted projects to internal architecture standards and engineering best practices
-- Worked with multidisciplinary teams on complex problem-solving
+### Experience
+- 🚀 Migrated a vibe-coded AI project into the company ecosystem and engineering standards.
+- 🕵🏾 Detected security gaps in a client-side [Supabase](https://supabase.com/) auth flow and proposed a proper BFF/server-side architecture.
+- 🔎 Reviewed frontend and BFF requests to identify missing validations and insecure client-side logic.
+- 🦸🏿‍♀️ I was the "Security Hero" of the team, promoting secure development practices and vulnerability awareness.
+- 🤖 Used Claude Code to review, debug, refactor, and standardize AI-generated implementations.
 
 ---
 
@@ -42,37 +38,7 @@ Transitioned from architecture into software development after completing an int
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square)
 
 ---
-
-## Exploring the AI Universe 🤖
-
-I'm actively exploring the AI landscape and have hands-on experience integrating **Claude Code** into production workflows. Currently diving deeper into:
-
-- AI-assisted development practices and workflows
-- Prompt engineering and optimizing AI tool usage
-- Building scalable systems with AI integration
-- Best practices for maintaining code quality with AI tools
-
-**I'm genuinely interested in learning more about the AI development space** and staying at the cutting edge of how AI is transforming software engineering. Open to discussions, collaborations, and opportunities in this domain.
-
----
-
 ## Let's Connect
 
-I'm actively looking for opportunities to contribute to innovative teams and grow as a developer. If you're interested in working together or want to learn more:
-
-📧 **Email:** [karenina.tech@gmail.com](mailto:karenina.tech@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/karen-ga](https://linkedin.com/in/karen-ga)  
-🚀 **Portfolio:** Coming soon
-
----
-
-## What I'm Looking For
-
-- **Collaborative environments** with multidisciplinary teams
-- **Opportunities to architect scalable solutions** combining technical depth with design thinking
-- **Projects that value code quality**, maintainability, and user experience
-- **Roles where AI-assisted development practices are encouraged** and utilized
-
----
-
-*Bringing architectural precision and modern development practices to every project.*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karen-ga)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karenina-tech)
